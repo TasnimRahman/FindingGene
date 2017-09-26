@@ -1,3 +1,7 @@
 #BlueJ class context
 comment0.target=Part1
-numComments=1
+comment1.params=DNA
+comment1.target=java.lang.String\ findGene(java.lang.String)
+comment2.params=
+comment2.target=void\ testGene()
+numComments=3
